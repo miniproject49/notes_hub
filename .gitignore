@@ -1,0 +1,5 @@
+#Dev Extensions
+.prettierrc
+
+# Dependencies
+node_modules
